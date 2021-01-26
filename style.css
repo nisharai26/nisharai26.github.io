@@ -4,9 +4,10 @@
     box-sizing: border-box;
 }
 #images{
-    width: 100%;
+    width: 50%;
     height: 50vh;
     background-repeat: no-repeat;
+    text-align: center;
 
 }
     /* width: 50%;
