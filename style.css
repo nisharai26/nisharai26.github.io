@@ -1,5 +1,6 @@
 * {
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -13,6 +14,8 @@
   font-size: 30px;
   background-image: url("./introduction.jpeg");
 =======
+=======
+>>>>>>> my-temporary-work
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -23,6 +26,7 @@
     background-repeat: no-repeat;
     text-align: center;
 
+<<<<<<< HEAD
 >>>>>>> 9ee7dbfc6c1ec53508d1305942704f11ec8b64ad
 }
 #images {
@@ -32,6 +36,30 @@
   background-repeat: no-repeat;
   align-items: center;
 }
+=======
+=======
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  padding: 90px;
+  width: 100%;
+  text-align: center;
+  background: #1abc9c;
+  color: rgb(167, 32, 32);
+  font-size: 30px;
+  background-image: url("./introduction.jpeg");
+>>>>>>> e0ffa0c (update in profile)
+}
+#images {
+  padding-left: 30%;
+  width: 50%;
+  height: 50vh;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+>>>>>>> my-temporary-work
 /* width: 50%; */
 /* height: 50vh; */
 */
