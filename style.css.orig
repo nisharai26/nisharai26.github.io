@@ -1,0 +1,130 @@
+* {
+<<<<<<< HEAD
+<<<<<<< HEAD
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  padding: 90px;
+  width: 100%;
+  text-align: center;
+  background: #1abc9c;
+  color: rgb(167, 32, 32);
+  font-size: 30px;
+  background-image: url("./introduction.jpeg");
+=======
+=======
+>>>>>>> my-temporary-work
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#images{
+    width: 50%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    text-align: center;
+
+<<<<<<< HEAD
+>>>>>>> 9ee7dbfc6c1ec53508d1305942704f11ec8b64ad
+}
+#images {
+  padding-left: 30%;
+  width: 50%;
+  height: 50vh;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+=======
+=======
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.header {
+  padding: 90px;
+  width: 100%;
+  text-align: center;
+  background: #1abc9c;
+  color: rgb(167, 32, 32);
+  font-size: 30px;
+  background-image: url("./introduction.jpeg");
+>>>>>>> e0ffa0c (update in profile)
+}
+#images {
+  padding-left: 30%;
+  width: 50%;
+  height: 50vh;
+  background-repeat: no-repeat;
+  align-items: center;
+}
+>>>>>>> my-temporary-work
+/* width: 50%; */
+/* height: 50vh; */
+*/
+  
+   /* background: url('./river.jpg'); */
+    /* background-size: 50%,100%,cover;  */
+    /* background-repeat: no-repeat,no-repeat;
+    background-position: right,center;
+     */
+
+body {
+  display: flex;
+
+  background-color: lightyellow;
+}
+h1 {
+  margin-right: 20px;
+  font-size: 40px;
+  color: red;
+  text-shadow: 1px 1px black;
+  text-emphasis: bold;
+}
+
+#about {
+  padding: 100px, 50px;
+}
+.section-info {
+  align-items: center;
+  font-weight: bold;
+  font-size: 30px;
+}
+.section-info h1 {
+  font-size: 25px;
+}
+.section-info {
+  font-size: 15px;
+}
+.navi {
+  margin-top: 90px;
+  word-spacing: 40px;
+}
+.navi a {
+    padding-left: 40px;
+  font-family: "Sans-serif", monospace;
+  text-decoration: none;
+  font-size: 60px;
+  text-shadow: 2px 2px black;
+}
+a {
+  
+  font-size: 20px;
+  text-align: center;
+  align-items: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+.navi a:hover {
+  background-color: orange;
+}
+.home a {
+  padding-left: 500px;
+  padding-bottom: 200px;
+  font-size: 60px;
+
+  align-items: center;
+  text-align: center;
+  text-shadow: 2px 2px black;
+}

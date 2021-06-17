@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    
+        <title>Skills</title>
+        <meta charset="UTF-8">
+        <link rel = "stylesheet" type = text/css href = "style.css">
+   
+        
+    </head>
+    <body>
+        <div id="image">
+            <image id="images" src="./computer.png"></image>
+           
+        </div>
+  
+    
+                <h1>Skills</h1>
+<<<<<<< HEAD
+                <p>JavaScript</p>
+                <p>HTML/CSS</p>
+=======
+               
+                <p>HTML/CSS</p>
+                <p>JavaScript</p>
+                <p>React</p>
+                <p>Node</p>
+                <p>MongoDB</p>
+                <h1>I am also comfortable into these languages though not an expert now</h1>
+                <p>Java</p>
+                <p>SQL</p>
+                <p>Python</p>
+>>>>>>> my-temporary-work
+                <div class="home">
+                    <a href="./index.html">Home Page</a>
+                </div>
+              
+<<<<<<< HEAD
+                <p>Here are some videos which you can watch in your free time related to these programming!!</p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/W6NZfCO5SIk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/x2RNw4M6cME" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
+>>>>>>> my-temporary-work
+
+         </body>
+</html>
